@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e141fd5b0f4db2103eb279e300d1b24a" label="small table" max_length="40" name="x_snc_small_test_0_small_table" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+    </element>
+</database>
